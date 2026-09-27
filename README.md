@@ -69,4 +69,3 @@ g++ main.cpp -o bank
 -   Graphical User Interface (GUI)
 -   Transaction history tracking
 -   Multi-user and concurrent access support
-# banking-system
